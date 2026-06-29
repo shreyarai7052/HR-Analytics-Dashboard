@@ -21,7 +21,7 @@ The objective of this project is to:
 * **Power BI Desktop**
 * **Power Query** (Data Cleaning & Transformation)
 * **DAX (Data Analysis Expressions)**
-* **Microsoft Excel / CSV Dataset**
+* **CSV Dataset**
 
 ## 📂 Dataset
 
